@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-Some challenges encountered during this project included configuring the tap gesture recognizer and implementing a header at the top of the app.
+Some challenges encountered during this project included configuring the tap gesture recognizer and implementing a navigation bar at the top of the app.
 
 ## License
 
